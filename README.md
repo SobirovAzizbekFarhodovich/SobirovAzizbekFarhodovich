@@ -70,6 +70,21 @@
 
 <hr>
 
-<div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=SobirovAzizbekFarhodovich&style=for-the-badge" alt="SobirovAzizbekFarhodovich" />
+<!-- Most used languages -->
+<div style="margin-top: 20px; text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
+    </a>
 </div>
+
+<!-- GitHub Stats with custom styling -->
+<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Azizbek's GitHub Stats" width=51%>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=tokyonight&border=2C68F6" alt="Azizbek's GitHub Streak" width=47%>
+</div>
+
+<!-- Coding Activity Graph -->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizbek-Qodirov&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
