@@ -18,13 +18,13 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: SobirovAzizbekFarhodovich
-          outputs: dist/snake.svg
+          outputs: snake.svg
 
       - name: Commit and push the snake gif
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "sobirovazizbek716@github.com" # Replace with your GitHub email
-          mv dist/snake.svg github-contribution-grid-snake-dark.svg
+          mv snake.svg github-contribution-grid-snake-dark.svg
           git add github-contribution-grid-snake-dark.svg
           git commit -m "Generate snake gif"
           git push
