@@ -23,21 +23,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azizbek-sobirov-23412429b/" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" />
-  </a>
-  <a href="https://gitlab.com/sobirovazizbek717" alt="Gitlab">
-    <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/SobirovAzizbekFarhodovich/" />
-  </a>
-  <a href="mailto:sobirovazizbek717@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://leetcode.com/u/__sab1rov_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://t.me/sobirov_azizbek7">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
-  </a>
+    <a href="https://www.linkedin.com/in/azizbek-sobirov-23412429b/" target="_blank" alt="Linkedin"> 
+      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> 
+    </a>
+    <a href="https://gitlab.com/sobirovazizbek717" alt="Gitlab"> 
+      <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/SobirovAzizbekFarhodovich/"/> 
+    </a>
+    <a href="mailto:sobirovazizbek717@gmail.com"> 
+      <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+    </a>
+    <a href="https://leetcode.com/u/__sab1rov_/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
+    </a>
+    <a href="https://t.me/sobirov_azizbek7"> 
+      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> 
+    </a>
 </p>
 
 <h4 align="center">Technologies I am good at:</h4>
@@ -70,11 +70,9 @@
 
 <hr>
 
----
-
 ## Watch snake eating my GitHub contributions
 
-![snake gif](https://github.com/SobirovAzizbekFarhodovich/SobirovAzizbekFarhodovich/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](./github-contribution-grid-snake-dark.svg)
 
 ---
 
