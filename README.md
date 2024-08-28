@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/azizbek-sobirov-23412429b/" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> </a>
     <a href="https://gitlab.com/sobirovazizbek717" alt="Gitlab"> <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/SobirovAzizbekFarhodovich/"/> </a>
       <a href="mailto:sobirovazizbek717@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-        <a href="https://leetcode.com/u/Javohir_hasanov/">
+        <a href="https://leetcode.com/u/__sab1rov_/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
     </a>
     <a href="https://t.me/sobirov_azizbek7"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
@@ -39,7 +39,7 @@
 
 </p>
 
-<h4 align="center">Technologies I am proficient in:</h4>
+<h4 align="center">Technologies I am good at:</h4>
 
 
 ###
@@ -47,15 +47,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=c" height="38" alt="c logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="38" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo"  />
   <img width="5" />
@@ -65,8 +61,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="rabbitmq logo"  />
-  <img width="5" />
   <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" height="38" alt="swagger-ui logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" height="38" alt="ubuntu logo" />
@@ -75,8 +69,6 @@
   <img width="5" />
   <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="38" alt="grpc logo" />
   <img width="5" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" height="38" alt="aws logo" />
-
 
 
 </div>
