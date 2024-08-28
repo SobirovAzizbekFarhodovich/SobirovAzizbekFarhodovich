@@ -72,14 +72,14 @@
 
 
 </div>
-<hr>
 
 <hr>
-
 ---
 ## Watch snake eating my Github contibutions
-![snake gif](https://github.com/SobirovAzizbekFarhodovich/SobirovAzizbekFarhodovich/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/AminovJamshid/AminovJamshid/blob/output/github-contribution-grid-snake-dark.svg)
 ---
+<hr>
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobirovAzizbekFarhodovich&theme=cobalt2)
