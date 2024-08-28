@@ -23,7 +23,7 @@ jobs:
       - name: Commit and push the snake gif
         run: |
           git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.email "sobirovazizbek716@github.com"
           mv dist/snake.svg github-contribution-grid-snake-dark.svg
           git add github-contribution-grid-snake-dark.svg
           git commit -m "Generate snake gif"
