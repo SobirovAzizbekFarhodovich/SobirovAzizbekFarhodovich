@@ -78,7 +78,7 @@
 
 ---
 ## Watch snake eating my Github contibutions
-![snake gif](https://github.com/SobirovAzizbekFarhodovich/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/SobirovAzizbekFarhodovich/SobirovAzizbekFarhodovich/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 
