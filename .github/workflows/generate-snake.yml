@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake gif
+        uses: Platane/snk@master
+        with:
+          github_user_name: SobirovAzizbekFarhodovich
+          outputs: dist/snake.svg
+
+      - name: Commit and push the snake gif
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          mv dist/snake.svg github-contribution-grid-snake-dark.svg
+          git add github-contribution-grid-snake-dark.svg
+          git commit -m "Generate snake gif"
+          git push
