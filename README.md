@@ -70,16 +70,6 @@
 
 <hr>
 
-## Watch snake eating my GitHub contributions
-
-![snake gif](./github-contribution-grid-snake-dark.svg)
-
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobirovAzizbekFarhodovich&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
-
 <div>
   <img align="right" src="https://komarev.com/ghpvc/?username=SobirovAzizbekFarhodovich&style=for-the-badge" alt="SobirovAzizbekFarhodovich" />
 </div>
