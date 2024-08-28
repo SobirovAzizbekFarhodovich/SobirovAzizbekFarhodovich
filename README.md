@@ -76,6 +76,11 @@
 
 <hr>
 
+---
+## Watch snake eating my Github contibutions
+![snake gif](https://github.com/SobirovAzizbekFarhodovich/blob/output/github-contribution-grid-snake-dark.svg)
+---
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobirovAzizbekFarhodovich&theme=cobalt2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SobirovAzizbekFarhodovich&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
