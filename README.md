@@ -22,44 +22,42 @@
   I am open to new opportunities and look forward to contributing to innovative projects that make a difference.
 </p>
 
-
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/azizbek-sobirov-23412429b/" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> </a>
-    <a href="https://gitlab.com/sobirovazizbek717" alt="Gitlab"> <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/SobirovAzizbekFarhodovich/"/> </a>
-      <a href="mailto:sobirovazizbek717@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-        <a href="https://leetcode.com/u/__sab1rov_/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
-    </a>
-    <a href="https://t.me/sobirov_azizbek7"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
-
-    
-  </p>
-  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/azizbek-sobirov-23412429b/" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" />
+  </a>
+  <a href="https://gitlab.com/sobirovazizbek717" alt="Gitlab">
+    <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/SobirovAzizbekFarhodovich/" />
+  </a>
+  <a href="mailto:sobirovazizbek717@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://leetcode.com/u/__sab1rov_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://t.me/sobirov_azizbek7">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
+  </a>
 </p>
 
 <h4 align="center">Technologies I am good at:</h4>
 
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo"  />
+  <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="kafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="kafka logo" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo" />
   <img width="5" />
   <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" height="38" alt="swagger-ui logo" />
   <img width="5" />
@@ -68,9 +66,6 @@
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="38" alt="gin logo" />
   <img width="5" />
   <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="38" alt="grpc logo" />
-  <img width="5" />
-
-
 </div>
 
 <hr>
@@ -86,16 +81,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobirovAzizbekFarhodovich&theme=cobalt2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
-
-<div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=SobirovAzizbekFarhodovich&style=for-the-badge" alt="SobirovAzizbekFarhodovich" />
-</div>
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobirovAzizbekFarhodovich&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SobirovAzizbekFarhodovich&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
-
 
 <div>
   <img align="right" src="https://komarev.com/ghpvc/?username=SobirovAzizbekFarhodovich&style=for-the-badge" alt="SobirovAzizbekFarhodovich" />
