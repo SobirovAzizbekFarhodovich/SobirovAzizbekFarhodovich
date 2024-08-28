@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I+am+Javohir+Xasanov&amp;center=true&amp;size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Azizbek+Sobirov&amp;center=true&amp;size=30">
   </a>
 </h1>
 
@@ -25,14 +25,14 @@
 
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/javohir-xasanov" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> </a>
-    <a href="https://gitlab.com/Javokhdev/" alt="Gitlab"> <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/Javokhdev/"/> </a>
-      <a href="mailto:javokhdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+    <a href="https://www.linkedin.com/in/azizbek-sobirov-23412429b/" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> </a>
+    <a href="https://gitlab.com/sobirovazizbek717" alt="Gitlab"> <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/SobirovAzizbekFarhodovich/"/> </a>
+      <a href="mailto:sobirovazizbek717@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
         <a href="https://leetcode.com/u/Javohir_hasanov/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
     </a>
-    <a href="https://t.me/javohir_khasanov"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
-    <a href="https://www.youtube.com/channel/UCqickl2xcjCYFWB1sNzKldA/" alt="YouTube"> <img src="https://img.shields.io/badge/-YouTube-fe090e?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqickl2xcjCYFWB1sNzKldA/"/> </a>
+    <a href="https://t.me/sobirov_azizbek7"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
+
     
   </p>
   
@@ -85,10 +85,10 @@
 <hr>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javokhdev&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javokhdev&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javokhdev&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobirovAzizbekFarhodovich&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SobirovAzizbekFarhodovich&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SobirovAzizbekFarhodovich&theme=cobalt2)
 
 
 <div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=javokhdev&style=for-the-badge" alt="javokhdev" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=SobirovAzizbekFarhodovich&style=for-the-badge" alt="SobirovAzizbekFarhodovich" />
 </div>
