@@ -10,7 +10,7 @@
   I am a passionate and dedicated Golang developer with experience in building scalable and efficient applications. With a strong foundation in computer science and hands-on expertise in various technologies, I have successfully contributed to multiple projects, ranging from RESTful APIs to microservices architecture.
 </p>
 <p align="justify">
-  My technical skills include proficiency in Golang, Python, Docker, PostgreSQL, MySQL, MongoDB, Redis, Kafka, and RabbitMQ. I am well-versed in using tools like Swagger for API documentation and have experience with gRPC for high-performance service communication.
+  My technical skills include proficiency in Golang, Python, Docker, PostgreSQL, MySQL, MongoDB, Redis and Kafka. I am well-versed in using tools like Swagger for API documentation and have experience with gRPC for high-performance service communication.
 </p>
 <p align="justify">
   In addition to my technical expertise, I have a keen interest in cloud technologies and have worked with AWS to deploy and manage applications. I am constantly learning and exploring new technologies to stay up-to-date with industry trends and best practices.
