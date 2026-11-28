@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="200" viewBox="0 0 390 200" role="img" aria-labelledby="t">
+  <title id="t">GitHub activity. Contributions in the last year: 3,085, Current streak: 6 days, Longest streak: 25 days, Stars earned: 35, Public repositories: 29</title>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+    .label { font-size: 13px; fill: #59636e; }
+    .value { font-size: 13px; font-weight: 600; fill: #1f2328; }
+  </style>
+  <rect x="0.5" y="0.5" width="389" height="199" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="24" y="25" width="4" height="16" rx="2" fill="#007D9C"/>
+  <text class="title" x="36" y="39">GitHub activity</text>
+  <text class="label" x="24" y="76">Contributions in the last year</text>
+  <text class="value" x="366" y="76" text-anchor="end" style="fill:#007D9C">3,085</text>
+  <rect x="24" y="85" width="342" height="1" fill="#e4e8ec"/>
+  <text class="label" x="24" y="102">Current streak</text>
+  <text class="value" x="366" y="102" text-anchor="end">6 days</text>
+  <rect x="24" y="111" width="342" height="1" fill="#e4e8ec"/>
+  <text class="label" x="24" y="128">Longest streak</text>
+  <text class="value" x="366" y="128" text-anchor="end">25 days</text>
+  <rect x="24" y="137" width="342" height="1" fill="#e4e8ec"/>
+  <text class="label" x="24" y="154">Stars earned</text>
+  <text class="value" x="366" y="154" text-anchor="end">35</text>
+  <rect x="24" y="163" width="342" height="1" fill="#e4e8ec"/>
+  <text class="label" x="24" y="180">Public repositories</text>
+  <text class="value" x="366" y="180" text-anchor="end">29</text>
+</svg>
